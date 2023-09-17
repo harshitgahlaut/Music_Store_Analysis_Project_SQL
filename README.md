@@ -10,6 +10,8 @@ The "Music Store Data Analysis" project offers a comprehensive analysis of the m
 
 ![postgresql 248x256](https://github.com/harshitgahlaut/Music_Store_Analysis_Project_SQL/assets/142779836/3b27c931-ccb5-461a-b416-bb8608658595)
 
+PostgreSQL and pgAdmin4
+
 ## Skills showcased in this Project
 - Use of SELECT and WHERE statements along with LIMIT and ORDER BY 
 - Use of Aggreagte Functions such as SUM, COUNT
@@ -124,6 +126,14 @@ Output :
 Output :
 
 ![3c](https://github.com/harshitgahlaut/Music_Store_Analysis_Project_SQL/assets/142779836/526934c3-1f02-4942-a335-8106c6728ed2)
+
+# Key Findings
+
+_Identifying Valuable Clients_: Identifying Valuable Clients: Through a thorough analysis of customer purchase records and spending habits, we've pinpointed our most valuable clients based on their lifetime contribution and purchase frequency. This valuable data can be harnessed to craft tailored marketing initiatives, loyalty programs, and exclusive promotions aimed at deepening connections and preserving these cherished customer relationships.
+
+_Country-Based Revenue Insights_: By consolidating sales data and examining customer locations, we've identified the countries that generate the highest revenue for our digital music store. This valuable insight allows us to direct our marketing campaigns, localization efforts, and customer support resources towards these specific regions, ensuring we tap into their full revenue potential.
+
+_Identifying Preferred Music Genres_: Through an analysis of customer preferences and purchasing behaviors, we've pinpointed the most favored music genres within our customer community. This valuable data serves as a guide for our content curation strategy, promotional initiatives, and collaborations with artists from these genres, allowing us to effectively meet customer demands and preferences.
 
 ## End
 
