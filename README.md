@@ -24,7 +24,7 @@ The dataset for this project has 11 tables: Employee, Customer, Invoice, Invoice
 
 ## Questions and Answers
 
-#### Set 1 Questions 
+<ins>_Set 1 Questions - Easy_</ins>
 
 ![Untitled design](https://github.com/harshitgahlaut/Music_Store_Analysis_Project_SQL/assets/142779836/9661b8fc-1a0b-4816-ab72-068aa5238131)
 
@@ -62,7 +62,7 @@ Output :
 
 
 
-#### Set 2 Question 
+<ins>_Set 2 Question - Moderate_</ins>
 
 ![Set 2](https://github.com/harshitgahlaut/Music_Store_Analysis_Project_SQL/assets/142779836/2a5b6f1f-e6a1-476b-bf38-254cb105463d)
 
@@ -87,7 +87,7 @@ Output :
 
 
 
-#### Question Set 3 - Advanced
+<ins>_Set 3 Questions - Advance_</ins>
 
 ![Untitled design(4)](https://github.com/harshitgahlaut/Music_Store_Analysis_Project_SQL/assets/142779836/4528c108-4f10-4aa8-abd9-6487459f2001)
 
@@ -110,5 +110,6 @@ Output :
 ![3c](https://github.com/harshitgahlaut/Music_Store_Analysis_Project_SQL/assets/142779836/526934c3-1f02-4942-a335-8106c6728ed2)
 
 ## End
-    Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
+
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
 
