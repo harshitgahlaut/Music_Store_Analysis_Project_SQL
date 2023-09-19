@@ -13,6 +13,7 @@ The "Music Store Data Analysis" project offers a comprehensive analysis of the m
 PostgreSQL and pgAdmin4
 
 ## Skills showcased in this Project
+
 - Use of SELECT and WHERE statements along with LIMIT and ORDER BY 
 - Use of Aggreagte Functions such as SUM, COUNT
 - Use of GROUP BY and JOINS
